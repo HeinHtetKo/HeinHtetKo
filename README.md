@@ -1,4 +1,4 @@
-![Hello World!](https://github.com/HeinHtetKo/HeinHtetKo/blob/main/profile.avif)
+<div style="text-align:center"><img src="https://github.com/HeinHtetKo/HeinHtetKo/blob/main/profile.avif" /></div>
 
 <h1 align="center">Hi 👋, I'm Hein Htet Ko</h1>
 <h3 align="center">Web Developer</h3>
